@@ -1,0 +1,1 @@
+This dataset was collected from onlie stock website.in following code you can see the reduce in loss and val_loss for better accuracy try incresing the no of epochs ,due to integrated graphics i have stoped to 10 epochs
